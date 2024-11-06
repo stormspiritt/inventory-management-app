@@ -1,4 +1,4 @@
-# Eyewear Inventory Management App - Frontend
+# Inventory Management App - Frontend
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/github/license/yourusername/eyewear-inventory-app)
